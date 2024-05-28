@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently a student **@ Beam Institute, based in Berlin, Germany**
 
-- 👨‍💻 All of my projects are available in my **Popular Repositories** (below).
+- 👨‍💻 All of my projects are available in my **Pinned Repositories** (below).
 
 - ⚡ Fun fact: **I am also quite the music nerd and avid series and movie fan**
 

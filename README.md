@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available in my **Pinned Repositories** (below).
 
-- ⚡ Fun fact: **I am also quite the music nerd and avid series and movie fan**
+- ⚡ Fun fact: **left the life of a music journalist to find new inspiration in tech !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

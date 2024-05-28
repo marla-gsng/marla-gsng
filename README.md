@@ -1,8 +1,6 @@
 
-
-
 <h1 align="center">Hello, I'm Marla ✨ </h1>
-<h3 align="left">A new yet eager junior web developer with a passion for front-end development</h3>
+<h3 align="left">A new yet eager junior web developer with a passion for front-end development.</h3>
 
 - 🔭 I’m currently working on **various projects**
 
